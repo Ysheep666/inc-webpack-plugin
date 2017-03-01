@@ -1,0 +1,16 @@
+.DS_Store
+node_modules
+*/node_modules
+npm-debug.log
+*.swp
+.vscode
+.sw*
+.idea/*
+.jshintrc
+.travis.yml
+.sass-cache/
+.project
+mods/.sass-cache/
+*.zip
+src/modules/common/data.json
+test/unit/coverage

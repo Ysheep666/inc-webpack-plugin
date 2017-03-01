@@ -1,0 +1,25 @@
+{
+  "name": "inc-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Use inc loader to webpack 2.2+",
+  "main": "index.js",
+  "scripts": {
+    "example": "webpack --config example/webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sadne/inc-webpack-plugin.git"
+  },
+  "keywords": [
+    "webpack 2",
+    "require.ensure",
+    "require",
+    "inc"
+  ],
+  "author": "Sadne <sadne@foxmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "loader-utils": "^0.2.16",
+    "webpack": "^2.2.0"
+  }
+}
