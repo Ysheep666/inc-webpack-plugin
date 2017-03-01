@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sadne/inc-webpack-plugin.git"
+    "url": "git+https://github.com/sadne/inc-webpack-plugin.git"
   },
   "keywords": [
     "webpack 2",
@@ -21,5 +21,13 @@
   "dependencies": {
     "loader-utils": "^0.2.16",
     "webpack": "^2.2.0"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/sadne/inc-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/sadne/inc-webpack-plugin#readme",
+  "directories": {
+    "example": "example"
+  },
+  "devDependencies": {}
 }
